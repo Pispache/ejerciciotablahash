@@ -9,7 +9,7 @@ import java.util.Scanner;
  *
  * @author Victor
  */
-public class EJercicioTablaHash {
+public class Ejerciciotablahash {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
